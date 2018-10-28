@@ -1,0 +1,1 @@
+Ovo je primer izdavanja node modula iz knjige Node.js, MongoDB i Angular.
